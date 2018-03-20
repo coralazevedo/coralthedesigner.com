@@ -230,7 +230,8 @@ h2 {
 
 	font-family: "Arial Narrow", "Arial", sans-serif;
 	color: #e99b97;
-	font-size: 1.8em;
+	font-size: 1.2em;
+	margin-bottom: 0;
 }
 
 .description {
@@ -555,13 +556,14 @@ ul {
 	text-transform: uppercase;
 	font-weight: normal;
 	color: #000;
-	margin-bottom: 0;
+	margin-bottom: 1em;
 	margin-top: 1em;
 }
 
 .resume-subheader {
 	font-size: 1em;
 	color: #e99b97;
+	margin-bottom: .4em;
 }
 
 .varieties {
@@ -585,7 +587,9 @@ ul {
 	color: #000;
 	list-style: none;
 	line-height: 1.4em;
-	margin-left: -1.2em;
+	margin-left: -2.5em;;
+	padding-left: 0;
+	margin-top: .5em;
 }
 
 .years {
@@ -595,7 +599,7 @@ ul {
 	color: #999;
 	list-style: none;
 	line-height: 1em;
-	margin-left: -1.2em;
+	margin-left: -2.5em;
 }
 
 
