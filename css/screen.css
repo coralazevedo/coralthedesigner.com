@@ -78,7 +78,8 @@ main {
 		font-family: "Arial Narrow", "Arial", sans-serif;
 		text-transform: uppercase;
 		color: #999;
-
+		text-decoration: underline;
+		text-align: center;
 	}
 
 .git-link:hover {
@@ -99,10 +100,11 @@ main {
 	font-size: 1em;
 	color: #999;
 	line-height: 1.5em;
+	text-decoration: underline
 }
 
 .contact-me:hover {
-	text-decoration: underline;
+	color: #f2ddc8;
 }
 
 @media (min-width: 60em) {
