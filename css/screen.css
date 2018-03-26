@@ -15,7 +15,7 @@ img {
 
 main {
   width: 90%;
-	max-width: 60em;
+	max-width: 70em;
 	padding-top: 1em;
 	margin: 0 auto;
 }
@@ -87,6 +87,7 @@ main {
 .bio-title {
 	font-size: 1.2em;
 	font-weight: bold;
+	letter-spacing: 0.02em;
 	font-family: "Arial Narrow", "Arial", sans-serif;
 	color: #df62a4;
 
@@ -221,13 +222,14 @@ a {
 }
 
 h3 {
-	font-size: 1.2em;
-	/*text-transform: uppercase;*/
+	font-size: 1.4em;
+	text-transform: uppercase;
 	font-family: "Arial Narrow", "Arial", sans-serif;
-	font-weight: normal;
+	/*font-weight: normal;*/
 	color: #df62a4;
 	margin-top: .6em;
 	padding-left: -1em;
+	letter-spacing: 0.02em;
 }
 
 .titles {
@@ -471,6 +473,7 @@ ul {
 	padding-right: 1.2em;
 	margin-top: 0em;
 	color: #999;
+	letter-spacing: 0.02em;
 }
 
 .nav a {
