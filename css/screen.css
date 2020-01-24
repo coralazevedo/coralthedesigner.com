@@ -227,10 +227,10 @@ h3 {
 	text-transform: uppercase;
 	font-family: "Arial Narrow", "Arial", sans-serif;
 	/*font-weight: normal;*/
-	color: #df62a4;
+	color: #fff;
 	margin-top: .6em;
 	padding-left: -1em;
-	letter-spacing: 0.02em;
+	letter-spacing: 0.04em;
 }
 
 .titles {
