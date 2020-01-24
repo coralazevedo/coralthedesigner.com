@@ -223,9 +223,9 @@ a {
 }
 
 h3 {
-	font-size: 1.4em;
+	font-size: 2em;
 	text-transform: uppercase;
-	font-family: "Arial Narrow", "Arial", sans-serif;
+	font-family: /*"Arial Narrow",*/ "Arial", sans-serif;
 	/*font-weight: normal;*/
 	color: #fff;
 	margin-top: .6em;
