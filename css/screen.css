@@ -133,16 +133,16 @@ main {
 	padding-top: 4em;
 }
 	
-/* grayscale-zoom Container */
+	/* Colorize-zoom Container */
 figure img {
-  transition: transform .5s, filter 1.5s ease-in-out;
+  transition: transform .5s, filter 1s ease-in-out;
   filter: grayscale(0);
 }
 
 /* The Transformation */
 figure:hover img {
   filter: grayscale(100%);
-  transform: scale(1.05);
+  transform: scale(1.1);
 }
 
 .small-instalogo {
