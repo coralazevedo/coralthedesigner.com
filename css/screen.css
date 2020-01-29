@@ -125,10 +125,8 @@ main {
 		grid-gap: 1em;
 		}
 
-div .header-nav {
+.header-nav {
 	position: fixed;
-	width: 60em;
-	margin: auto;
 }
 
 main {
