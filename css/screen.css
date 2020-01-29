@@ -186,7 +186,7 @@ main {
   max-width: 100%;
   height: auto;
 margin: .;
-box-shadow: 0 .2em 4em .0 rgba(0, 0, 0, .25);
+box-shadow: 0 .2em .2em .0 rgba(0, 0, 0, .25);
 overflow: hidden; /* [1.2] Hide the overflowing of child elements */
 }
 
