@@ -126,7 +126,9 @@ main {
 		}
 
 .header-nav {
-		position: fixed;
+	position: fixed;
+	width: 60em;
+	margin: auto;
 }
 
 main {
