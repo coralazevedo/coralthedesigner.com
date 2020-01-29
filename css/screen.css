@@ -155,7 +155,7 @@ position: relative;
 	
 figcaption {
 position: absolute;
-  float: left;
+  float: center;
 }
 
 figcaption h3 {
