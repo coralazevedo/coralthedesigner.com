@@ -194,7 +194,16 @@ overflow: hidden; /* [1.2] Hide the overflowing of child elements */
 .port-pre:hover img {
   transform: scale(1.5);
 }
+	
+figure {
+	position: relative;
+	float:
+{
 
+figcaption {
+	position: absolute;
+	float: center;
+{
 
 }
 
