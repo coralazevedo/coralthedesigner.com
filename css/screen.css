@@ -269,17 +269,18 @@ h3 {
 	margin-top: .6em;
 	padding-left: -1em;
 	letter-spacing: 0.04em;
+	text-align: center;
 }
 
 .titles {
 	font-size: 1.4em;
 	text-align: center;
-	z-index: 1;
 }
 
 .titles:hover {
 	text-decoration: underline;
 	color: #999;
+	z-index: 1;
 }
 
 h2 {
