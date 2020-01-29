@@ -153,6 +153,11 @@ position: relative;
   float: left;
 }
 	
+	figcaption {
+	text-alight-center
+	float: center;
+	}
+	
 .preview-title {
 position: absolute;
   float: center;
