@@ -158,6 +158,15 @@ position: absolute;
   float: left;
 }
 
+figcaption h3 {
+	transition: transform .5s, display .7s ease-in-out;
+  	display: none;
+}
+	
+figcaption:hover h3 {
+	display: block;
+}
+
 .small-instalogo {
 	display: none;
 }
