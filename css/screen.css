@@ -23,7 +23,7 @@ main {
 }
 
 #banner {
-	width:60%;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -126,7 +126,7 @@ main {
 		}
 
 .header-nav {
-	position: fixed;
+		position: fixed;
 }
 
 main {
@@ -175,7 +175,13 @@ main {
 	padding: 1em;
 	margin-right: 1.3em;
 }
-	
+
+}
+
+
+
+
+
 .port-pre {
   max-width: 100%;
   height: auto;
@@ -192,23 +198,6 @@ overflow: hidden; /* [1.2] Hide the overflowing of child elements */
 .port-pre:hover img {
   transform: scale(1.5);
 }
-	
-figure {
-	position: relative;
-	float:
-{
-
-figcaption {
-	position: absolute;
-	float: center;
-{
-
-}
-
-
-
-
-
 
 
 
@@ -388,76 +377,55 @@ h6 {
 }
 /*
 @media (max-width: 58em) {
-
-
  body {
 	margin: 0 auto;
 	width: 100%;
 }
-
-
-
 .port-pre {
 	width: 100%;
 	height: auto;
 	margin: 0;
 	}
-
-
-
-
 main {
 	margin: 0 auto;
 	width: 100%;
 	padding-top: 0;
 }
-
 h3 {
 	margin-top: 1em;
 	margin-bottom: 0;
 	font-size: 1.4em;
 }
-
 h2 {
 	font-size: 1em;
 	margin-bottom: -.9em;
 }
-
 figcaption {
 	padding-left: 0;
 }
-
 .bags {
 	width: 100%;
 }
-
 img {
 	max-width: 100%;
 	height: auto;
  	text-align: center;
 	padding: 0;
 }
-
-
 .nav {
 	margin: auto -1.1em;
 	display: inline;
 	margin-top: 0em;
 	}
-
 .nav a {
 	font-size: .9em;
 }
-
 ul {
 	background-color: #fff;
 	padding-bottom: .5em;
 	padding-top: 0em;
 	margin-left: 0em;
 }
-
-
-
 header {
 	position: static;
 	top: 0;
@@ -466,7 +434,6 @@ header {
 	width: 100%;
 	margin-bottom: 0;
 	}
-
 }*/
 
 nav {
