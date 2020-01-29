@@ -165,15 +165,15 @@ z-index: 100;
 margin: auto;
 }
 
-	/*
-.row-col figcaption h3 {
+	
+.preview-title {
 	transition: transform .5s, display .7s ease-in-out;
   	display: none;
 }
 	
-.row-col figcaption:hover h3 {
+.preview-title:hover {
 	display: block;
-} */
+}
 
 .small-instalogo {
 	display: none;
