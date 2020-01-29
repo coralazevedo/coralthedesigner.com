@@ -127,6 +127,7 @@ main {
 
 .header-nav {
 		position: fixed;
+	z-index: 101;
 }
 
 main {
