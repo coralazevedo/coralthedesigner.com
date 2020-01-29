@@ -132,6 +132,18 @@ main {
 main {
 	padding-top: 4em;
 }
+	
+	/* Colorize-zoom Container */
+figure img {
+  transition: transform .5s, filter 1.5s ease-in-out;
+  filter: grayscale(0);
+}
+
+/* The Transformation */
+figure:hover img {
+  filter: grayscale(100%);
+  transform: scale(1.1);
+}
 
 .small-instalogo {
 	display: none;
