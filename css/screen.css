@@ -135,7 +135,7 @@ main {
 	
 	/* Colorize-zoom Container */
 figure img {
-  transition: transform .5s, filter 1s ease-in-out;
+  transition: transform .5s, filter .7s ease-in-out;
   filter: grayscale(0);
 filter: brightness(100%);
 }
@@ -143,7 +143,7 @@ filter: brightness(100%);
 /* The Transformation */
 figure:hover img {
   filter: grayscale(100%);
-filter: brightness(50%);
+filter: brightness(350%);
   transform: scale(1.1);
 }
 
