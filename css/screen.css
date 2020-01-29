@@ -134,14 +134,14 @@ main {
 }
 	
 	/* Colorize-zoom Container */
-.preview-image img {
+.preview-image figure img {
   transition: transform .5s, filter .7s ease-in-out;
   filter: grayscale(0);
 filter: brightness(100%);
 }
 
 /* The Transformation */
-.preview-image:hover img {
+.preview-image figure:hover img {
   filter: grayscale(100%);
 filter: brightness(35%);
   transform: scale(1.1);
