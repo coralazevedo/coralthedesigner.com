@@ -172,7 +172,7 @@ margin: auto;
 	
 .preview-title {
 	transition: transform .5s, display .7s ease-in-out;
-  	display: none;
+  	/*display: none;*/
 }
 	
 
