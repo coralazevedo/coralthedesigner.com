@@ -1,6 +1,4 @@
-function alertUser(msg) {
-alert(msg);
-}
+alert('Currently under construction! There may be some weirds :)');
 
 
 /*
