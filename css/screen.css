@@ -112,6 +112,8 @@ main {
 }
 
 @media (min-width: 60em) {
+	
+
 
 .portfolio {
 	display: grid;
@@ -310,14 +312,14 @@ h2 {
 }
 
 .logo img {
-	max-width: 18em;
+	/*max-width: 18em;*/
 	height: auto;
 	padding-left: .6em;
 }
 
 
 .logo {
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
 	margin-left: 0;
 	margin-bottom: 0em;
