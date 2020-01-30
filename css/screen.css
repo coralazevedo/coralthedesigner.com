@@ -130,6 +130,7 @@ main {
 .header-nav {
 		position: fixed;
 	z-index: 101;
+	margin: 0 auto;
 }
 
 main {
@@ -325,6 +326,7 @@ h2 {
 	margin-bottom: 0em;
 	margin-right: 1em;
 	padding-top: 1em;
+	display: inline;
 }
 
 h1 {
@@ -337,6 +339,7 @@ h1 {
 
 .header-nav {
 	margin-top: 0;
+	margin: 0 auto;
 	background-color: #fff;
 	opacity: .9;
 	width: 100%;
