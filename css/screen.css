@@ -108,7 +108,7 @@ main {
 }
 
 .contact-me:hover {
-	color: #df62a4;
+	color: #edb2db;
 }
 
 @media (min-width: 60em) {
@@ -496,7 +496,7 @@ ul {
 }
 
 .nav {
-	font-family: "Arial Narrow", "Arial", sans-serif;
+	font-family: "Arial", sans-serif;
 	font-size: .8em;
 	text-transform: uppercase;
 	list-style: none;
@@ -516,8 +516,8 @@ ul {
 }
 
 .nav a:hover {
-	color: #df62a4;
-	border-bottom: 2px solid #df62a4;
+	color: #edb2db;
+	border-bottom: 2px solid #edb2db;
   transition: border-bottom-color .5s ease;
 }
 
