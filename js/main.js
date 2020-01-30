@@ -1,4 +1,4 @@
-alert('Currently under construction! There may be some weirds :)');
+alert('Currently under construction! There may be some weirds.');
 
 
 /*
