@@ -264,7 +264,7 @@ figure {
 	/*overflow: hidden;*/
 }
 
-row-col {
+rowcol {
 	display: inline-block;
 }
 
@@ -390,7 +390,7 @@ li {
 	color: #999;
 }
 
-.row-col ul {
+.rowcol ul {
   list-style: none;
 }
 
