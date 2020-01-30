@@ -158,7 +158,7 @@ position: relative;
 }
 	
 	figcaption {
-	text-alight-center
+	text-align: center;
 	float: center;
 	}
 	
